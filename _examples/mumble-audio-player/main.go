@@ -6,10 +6,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/talkkonnect/gumble/gumble"
-	"github.com/talkkonnect/gumble/gumbleffmpeg"
-	"github.com/talkkonnect/gumble/gumbleutil"
-	_ "github.com/talkkonnect/gumble/opus"
+	"github.com/MirkoUgoliniDev/gumble/gumble"
+	"github.com/MirkoUgoliniDev/gumble/gumbleffmpeg"
+	"github.com/MirkoUgoliniDev/gumble/gumbleutil"
+	_ "github.com/MirkoUgoliniDev/gumble/opus"
 )
 
 func main() {
