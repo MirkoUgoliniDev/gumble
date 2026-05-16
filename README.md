@@ -8,9 +8,9 @@ gumble is a [Mumble](https://mumble.info/) client implementation in Go
 
 - AddListeningChannelID
 - RemoveListeningChannelID
-- talkkonnect is able to listen to multiple channels at once using this new addition to the gumble library
+- DoorPhoneServer is able to listen to multiple channels at once using this addition to the gumble library
 
-## Modified By Suvir Kumar for talkkonnect
+## Modified for DoorPhoneServer
 
 ## License
 
